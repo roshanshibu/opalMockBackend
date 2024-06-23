@@ -1,0 +1,50 @@
+[
+  {
+    "month": 6,
+    "year": 2024,
+    "data": {
+      "memories": [
+        { "imageUrl": "", "id": 1 },
+        { "imageUrl": "", "id": 2 },
+        { "imageUrl": "", "id": 3 }
+      ],
+      "journals": [
+        {
+          "date": 19,
+          "month": "JUL",
+          "title": "Coffee, Cake and Computers",
+          "subtitle": "Wednesday morning started rough. I woke up late",
+          "id": 1
+        },
+        {
+          "date": 18,
+          "month": "JUL",
+          "title": "Stargazing and Self-Doubt",
+          "subtitle": "The crisp night air hit my face as I stepped outside, the vast expanse of stars twinkling overhead",
+          "id": 2
+        },
+        {
+          "date": 17,
+          "month": "JUL",
+          "title": "Unexpected Detour, Unexpected Delight",
+          "subtitle": "My carefully planned hiking route went awry thanks to a washed-out bridge",
+          "id": 3
+        },
+        {
+          "date": 16,
+          "month": "JUL",
+          "title": "The Power of 'No'",
+          "subtitle": "My calendar was bursting at the seams, yet another request popped into my inbox",
+          "id": 4
+        },
+        {
+          "date": 16,
+          "month": "JUL",
+          "title": "City Symphony and a Broken...",
+          "subtitle": "The usual cacophony of the city greeted me - honking cabs, distant sirens, the rhythmic rumble of the subway",
+          "id": 5
+        }
+      ]
+    }
+  }
+]
