@@ -1,0 +1,91 @@
+[
+  {
+    "month": 6,
+    "year": 2024,
+    "memories": [
+      {
+        "imageUrl": "https://raw.githubusercontent.com/roshanshibu/opalMockBackend/main/images/mem-6-2024-1.jpg",
+        "id": 1
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/roshanshibu/opalMockBackend/main/images/mem-6-2024-2.jpg",
+        "id": 2
+      },
+      {
+        "imageUrl": "https://raw.githubusercontent.com/roshanshibu/opalMockBackend/main/images/mem-6-2024-3.jpg",
+        "id": 3
+      }
+    ],
+    "journals": [
+      {
+        "date": 19,
+        "month": "JUL",
+        "title": "Coffee, Cake and Computers",
+        "subtitle": "Wednesday morning started rough. I woke up late",
+        "id": 1
+      },
+      {
+        "date": 18,
+        "month": "JUL",
+        "title": "Stargazing and Self-Doubt",
+        "subtitle": "The crisp night air hit my face as I stepped outside, the vast expanse of stars twinkling overhead",
+        "id": 2
+      },
+      {
+        "date": 17,
+        "month": "JUL",
+        "title": "Unexpected Detour, Unexpected Delight",
+        "subtitle": "My carefully planned hiking route went awry thanks to a washed-out bridge",
+        "id": 3
+      },
+      {
+        "date": 16,
+        "month": "JUL",
+        "title": "The Power of 'No'",
+        "subtitle": "My calendar was bursting at the seams, yet another request popped into my inbox",
+        "id": 4
+      },
+      {
+        "date": 16,
+        "month": "JUL",
+        "title": "City Symphony and a Broken...",
+        "subtitle": "The usual cacophony of the city greeted me - honking cabs, distant sirens, the rhythmic rumble of the subway",
+        "id": 5
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "journals": [
+      {
+        "date": 26,
+        "month": "MAY",
+        "title": "Rainy Day Reads and a Leaky Roof",
+        "subtitle": "The rain lashed against the window, a perfect excuse to curl up with a good book",
+        "id": 6
+      },
+      {
+        "date": 25,
+        "month": "MAY",
+        "title": "Forgotten Backpack and Found Inspiration",
+        "subtitle": "Panic surged as I realized I'd left my backpack on the bus, filled with notes and half-written ideas for my project",
+        "id": 7
+      },
+      {
+        "date": 22,
+        "month": "MAY",
+        "title": "The Museum of Memories and a Faded Photograph",
+        "subtitle": "The museum halls were a labyrinth of forgotten treasures, each object a whisper of the past",
+        "id": 8
+      },
+      {
+        "date": 11,
+        "month": "MAY",
+        "title": "The Art of Imperfection and a Chipped Mug",
+        "subtitle": "The pottery class was all about finding beauty in imperfection, yet staring at my misshapen mug, I couldn't help but feel a pang of disappointment",
+        "id": 9
+      }
+    ]
+  }
+]
